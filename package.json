@@ -2,10 +2,10 @@
   "name": "hydrogen-renderer",
   "version": "0.0.1",
   "description": "",
-  "main": "lib/view-model-api.ssr.js",
-  "browser": "lib/view-model-api.esm.js",
-  "module": "lib/view-model-api.esm.js",
-  "unpkg": "lib/view-model-api.min.js",
+  "main": "lib/index.ssr.js",
+  "browser": "lib/index.esm.js",
+  "module": "lib/index.esm.js",
+  "unpkg": "lib/index.min.js",
   "scripts": {
     "build": "npx rollup -c",
     "prepublishOnly": "npm run build"
