@@ -1,6 +1,6 @@
 {
-  "name": "hydrogen-template",
-  "version": "1.0.0",
+  "name": "hydrogen-renderer",
+  "version": "0.0.1",
   "description": "",
   "main": "lib/view-model-api.ssr.js",
   "browser": "lib/view-model-api.esm.js",
