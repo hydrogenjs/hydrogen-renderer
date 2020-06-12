@@ -2,6 +2,10 @@
   "name": "hydrogen-renderer",
   "version": "0.0.3",
   "description": "",
+  "repository": {
+    "type": "Github",
+    "url": "https://github.com/hydrogenjs/hydrogen-renderer"
+  },
   "main": "lib/index.ssr.js",
   "browser": "lib/index.esm.js",
   "module": "lib/index.esm.js",
