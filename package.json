@@ -1,6 +1,6 @@
 {
   "name": "hydrogen-renderer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "lib/index.ssr.js",
   "browser": "lib/index.esm.js",
