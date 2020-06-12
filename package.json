@@ -1,0 +1,25 @@
+{
+  "name": "hydrogen-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/view-model-api.ssr.js",
+  "browser": "lib/view-model-api.esm.js",
+  "module": "lib/view-model-api.esm.js",
+  "unpkg": "lib/view-model-api.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "author": "Shailen Naidoo",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^13.0.0",
+    "@rollup/plugin-typescript": "^4.1.2",
+    "rollup": "^2.15.0",
+    "ts-node": "^8.10.2",
+    "tslib": "^2.0.0",
+    "typescript": "^3.9.5"
+  }
+}
